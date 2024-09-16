@@ -1,4 +1,4 @@
-﻿Country Name,Country Code,Population
+country,Country Code,population
 Aruba,ABW,106277
 Africa Eastern and Southern,AFE,739108306
 Afghanistan,AFG,42239854
@@ -250,7 +250,7 @@ Uganda,UGA,48582334
 Ukraine,UKR,37000000
 Upper middle income,UMC,2810588102
 Uruguay,URY,3423108
-United States,USA,334914895
+United States of America,USA,334914895
 Uzbekistan,UZB,36412350
 St. Vincent and the Grenadines,VCT,103698
 "Venezuela, RB",VEN,28838499
